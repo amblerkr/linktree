@@ -139,7 +139,7 @@ img {
 
 @media screen and (min-width: 1025px) {
   html, body {
-    background-color: #4BBFFA;
+    background-color: #000000;
   }
   .phone {
     display: block;
